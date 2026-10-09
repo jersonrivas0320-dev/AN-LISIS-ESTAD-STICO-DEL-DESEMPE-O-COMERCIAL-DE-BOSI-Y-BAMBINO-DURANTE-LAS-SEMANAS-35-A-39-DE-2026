@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------
+%%  TOTALES                       Dias Trabajados                             16.00
+.                                 Venta BOSI               91     26  17,945,230.00
+.                                 - NC Bosi                              796,725.00
+.                                 Subtotal BOSI                       17,148,505.00
+.                                 Venta BAMBINO            15     12   2,596,125.00
+.                                 Subtotal BAMBINO                     2,596,125.00
+.                                 VENTA TOTAL             106     38  19,744,630.00
+.                                 Total Tickets                               70.00
+.                                 Venta Promedio                         282,066.14
+.                                 Articulos x Ticket                           1.51
+.                                 Tickets por Dia                              4.38
+.                                 Pares por Ticket                              .54
+.                                 Particip. Bambino                           13.15
+------------------------------------------------------------------------------------
+3VW YERSON RONALDO RIVAS RUIZ     Dias Trabajados                              4.00
+.                                 Venta BOSI               32      5   4,692,875.00
+.                                 - NC Bosi                              323,925.00
+.                                 Subtotal BOSI                        4,368,950.00
+.                                 Venta BAMBINO             6      6   1,107,000.00
+.                                 Subtotal BAMBINO                     1,107,000.00
+.                                 VENTA TOTAL              38     11   5,475,950.00
+.                                 Total Tickets                               24.00
+.                                 Venta Promedio                         228,164.58
+.                                 Articulos x Ticket                           1.58
+.                                 Tickets por Dia                              6.00
+.                                 Pares por Ticket                              .46
+.                                 Particip. Bambino                           20.22
+------------------------------------------------------------------------------------
+4BZ ANGIE LORENA REYES VILLARREAL Dias Trabajados                              6.00
+.                                 Venta BOSI               27     12   7,055,685.00
+.                                 - NC Bosi                              373,875.00
+.                                 Subtotal BOSI                        6,681,810.00
+.                                 Venta BAMBINO             2      2     439,800.00
+.                                 Subtotal BAMBINO                       439,800.00
+.                                 VENTA TOTAL              29     14   7,121,610.00
+.                                 Total Tickets                               21.00
+.                                 Venta Promedio                         339,124.29
+.                                 Articulos x Ticket                           1.38
+.                                 Tickets por Dia                              3.50
+.                                 Pares por Ticket                              .67
+.                                 Particip. Bambino                            6.18
+------------------------------------------------------------------------------------
+4CO LUISA FERNANDA OSPINA MORENO  Dias Trabajados                              6.00
+.                                 Venta BOSI               32      9   6,196,670.00
+.                                 - NC Bosi                               98,925.00
+.                                 Subtotal BOSI                        6,097,745.00
+.                                 Venta BAMBINO             7      4   1,049,325.00
+.                                 Subtotal BAMBINO                     1,049,325.00
+.                                 VENTA TOTAL              39     13   7,147,070.00
+.                                 Total Tickets                               25.00
+.                                 Venta Promedio                         285,882.80
+.                                 Articulos x Ticket                           1.56
+.                                 Tickets por Dia                              4.17
+.                                 Pares por Ticket                              .52
+.                                 Particip. Bambino                           14.68
